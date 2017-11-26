@@ -19,7 +19,8 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
     // static Bitmap chosenImage;
     static ArrayList<Bitmap> artImage;
-
+    // DENEMEEEEEEEEEEEEEEEEEEEEEE
+    
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater menuInflater = getMenuInflater();
